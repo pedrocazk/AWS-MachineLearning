@@ -1,0 +1,3 @@
+Database: traditional relational databases, transactional and  strict defined schema
+Datawarehouse: Processing done  on import, ready to use  with BI tools
+Datalake: Raw data not ready to use, Many diffent source format and processing done  on export
